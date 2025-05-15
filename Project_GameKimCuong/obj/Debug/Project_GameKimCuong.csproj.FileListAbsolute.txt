@@ -1,0 +1,10 @@
+E:\Lập trình window\Project_GameKimCuong\Project_GameKimCuong\bin\Debug\Project_GameKimCuong.exe.config
+E:\Lập trình window\Project_GameKimCuong\Project_GameKimCuong\bin\Debug\Project_GameKimCuong.exe
+E:\Lập trình window\Project_GameKimCuong\Project_GameKimCuong\bin\Debug\Project_GameKimCuong.pdb
+E:\Lập trình window\Project_GameKimCuong\Project_GameKimCuong\obj\Debug\Project_GameKimCuong.csproj.AssemblyReference.cache
+E:\Lập trình window\Project_GameKimCuong\Project_GameKimCuong\obj\Debug\Project_GameKimCuong.Properties.Resources.resources
+E:\Lập trình window\Project_GameKimCuong\Project_GameKimCuong\obj\Debug\Project_GameKimCuong.csproj.GenerateResource.cache
+E:\Lập trình window\Project_GameKimCuong\Project_GameKimCuong\obj\Debug\Project_GameKimCuong.csproj.CoreCompileInputs.cache
+E:\Lập trình window\Project_GameKimCuong\Project_GameKimCuong\obj\Debug\Project_GameKimCuong.exe
+E:\Lập trình window\Project_GameKimCuong\Project_GameKimCuong\obj\Debug\Project_GameKimCuong.pdb
+E:\Lập trình window\Project_GameKimCuong\Project_GameKimCuong\obj\Debug\Project_GameKimCuong.Form1.resources
