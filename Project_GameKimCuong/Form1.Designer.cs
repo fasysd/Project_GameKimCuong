@@ -35,7 +35,7 @@
             // 
             this.textBox_point.AutoSize = true;
             this.textBox_point.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox_point.Location = new System.Drawing.Point(613, 165);
+            this.textBox_point.Location = new System.Drawing.Point(746, 119);
             this.textBox_point.Name = "textBox_point";
             this.textBox_point.Size = new System.Drawing.Size(42, 46);
             this.textBox_point.TabIndex = 0;
